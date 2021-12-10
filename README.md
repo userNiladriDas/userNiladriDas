@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Everything
 - 💬 Ask me about Java or any tech related stuff.
 - 📫 How to reach me: <a href="mailto:niladrikickstart2020@gmail.com">Email</a>
-- Other Profiles: <a href="https://www.hackerrank.com/niladrikickstar1" target="_blank">HackerRank</a> | <a href="https://www.codechef.com/users/niladridas2000" target="_blank">Codechef</a>                
+- Other Profiles: <a href="https://www.hackerrank.com/niladrikickstar1" target="_blank">HackerRank</a> | <a href="https://www.codechef.com/users/niladridas2000" target="_blank">Codechef</a> | <a href="https://leetcode.com/userNiladri/" target="_blank">LeetCode</a>                               
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 6 hours listening songs everyday.
 
